@@ -6,16 +6,27 @@
 	
 	  }
 	
+<<<<<<< HEAD
 	body {
 	      min-width: 500px;
 	      
 	  }
 	
 	  .profileBody {
+=======
+	body
+       {
+	      min-width: 500px;
+	      }
+	
+	  .profileBody 
+       {
+>>>>>>> 856741f5b4024374fdebeaf581ef62026d0fd43a
 	    display: inline-block;
 	    background-color: white;
 	    margin-top: 6px;
 	     margin-left: 55px;
+<<<<<<< HEAD
 	    	  }
 	  h1{
 	      
@@ -24,14 +35,27 @@
 	  }
 	
 	  .border{
+=======
+	    	 }
+	  h1{
+	      color:black;
+	     }
+	
+	  .border
+     {
+>>>>>>> 856741f5b4024374fdebeaf581ef62026d0fd43a
 	    width: 260px;
 	    padding: 5px;
 	    border-style: inset;
 	    background-color:yellow;
 	    margin: 0;
 	    box-shadow: 10px 10px;
+<<<<<<< HEAD
 	    
 	  }
+=======
+	    }
+>>>>>>> 856741f5b4024374fdebeaf581ef62026d0fd43a
 
 	
 	
